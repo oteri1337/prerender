@@ -1,4 +1,10 @@
 {
+  "name": "prerender",
+  "version": "0.0.1",
+  "description": "Simple Node Js Tool For Pre-Rendering Single Page Web Applications and Cloning Websites",
+  "main": "index.js",
+  "author": "Oteri Avwunudiogba",
+  "license": "UNLICENSED",
   "dependencies": {
     "puppeteer-core": "^2.1.1"
   }
